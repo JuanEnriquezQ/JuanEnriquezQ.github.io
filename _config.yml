@@ -5,17 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Darkensses Code Blog"
+title                    : "El Ezequiel"
 title_separator          : "-"
 name                     : "Jasiel Guillen"
 description              : "An amazing website."
-url                      : "https://darkensses.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://JuanEnriquezQ.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Darkensses/darkensses.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "JuanEnriquezQ/JuanEnriquezQ.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,17 +79,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jasiel Guillén"
+  name             : "Juan Enriquez"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ad Honorem. I'm an student from ITL and this my code blog"
-  location         : "Torreón, MX"
+  bio              : "Y a Mary la respeto mucho.. pero me vale v*rga"
+  location         : "Los Mochis, Sinaloa"
   email            : "darkensses@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Darkensses"
+  facebook         : "JuanEnriquezQ"
   foursquare       :
   github           : "Darkensses"
   gitlab           :
